@@ -1,6 +1,6 @@
 # WordAutoComplete
 
-A word autocompletion system that uses its own data structure (DictionaryTree) to efficiently traverse words letter by letter to find possible autocompletions.
+A word auto-completion system that uses its own data structure (DictionaryTree) to efficiently traverse words letter by letter to find possible auto-completions.
 
 DictionaryTree also has methods such as contains(), mostPopularWord(), allWords(), longestWord().
 
